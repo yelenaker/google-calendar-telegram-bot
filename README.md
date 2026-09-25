@@ -174,7 +174,7 @@ Configuration values should be stored securely in the Apps Script project and ke
 ### Telegram Bot
 
 <p align="center">
-  <img src="Screenshots/image-2.png" width="420">
+  <img src="Screenshots/image-2.png" width="500">
 </p>
 
 ### Google Apps Script
