@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+*.secret
+secrets.json
+config.local.js
+
+# Google Apps Script local files
+.clasp.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
