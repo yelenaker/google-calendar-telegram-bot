@@ -62,7 +62,7 @@ When a relevant event is detected in Google Calendar, the bot processes the even
 
 ### Telegram
 
-![alt text](Screenshots/image.png)
+![alt text](Screenshots/image.png width="420")
 
 ---
 
@@ -171,7 +171,7 @@ Configuration values should be stored securely in the Apps Script project and ke
 
 ### Telegram Bot
 
-![alt text](Screenshots/image-2.png)
+![alt text](Screenshots/image-2.png width="420")
 
 ### Google Apps Script
 
